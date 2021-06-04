@@ -1,0 +1,35 @@
+body{
+    background-color: #94d0cc;
+}
+.icon{
+    color: white;
+}
+.text-list{
+    font-size: 20px;
+}
+.card{
+    border: none;
+    background-color: #d1d9d9;
+}
+.card-header{
+    color: #f29191;
+}
+.btn{
+    color: #f29191;
+}
+.item-list{
+    margin: 5px 0;
+    border-radius: 10px !important;
+    background-color: #f29191;  
+    color: white!important; 
+}
+
+.highlightItem{
+    background-color:limegreen !important ;
+    color: black !important;
+    text-decoration: line-through white 1px !important;
+    box-shadow: 0 0 5px black;
+}
+button{
+    margin: 0 5px;
+}
